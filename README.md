@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./.github/logo.png" />
+  <img src="./assets/logo.png" />
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
   App to help NGOs built with ReactJS, React Native, Node.js and more. 
 </p>
 
-<img src=".github/thumbnail.png" />
+<img src="./assets/thumbnail.png" />
 
 ## About this Project
 
